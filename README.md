@@ -1,9 +1,14 @@
 # Remote IT Support Toolkit
 
 ## Overview
-Collection of scripts and SOPs for supporting remote employees.
+A collection of scripts, templates, and SOPs for supporting remote employees efficiently.
 
 ## Features
 - Network troubleshooting scripts
 - Common Windows fixes
-- SOPs for L1/L2 escalation
+- Step-by-step SOPs for L1/L2 escalation
+
+## Benefits
+- Reduces time to resolve common issues
+- Provides consistent support procedures
+- Supports multi-state remote teams
